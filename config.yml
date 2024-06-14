@@ -64,7 +64,7 @@ params:
       closed: true
     - name: AINU Web page
       description: https://ainu.tech
-      closed: false
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
