@@ -3,7 +3,7 @@ section: issue
 title: Maintenance Announcement
 date: 2024-02-24 10:35:00
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2024-06-14T08:14:28.544Z
 severity: down
 ---
