@@ -51,12 +51,15 @@ params:
   logo: /img/ainulogo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: other tab
+      link: www.google.com
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
