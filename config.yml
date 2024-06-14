@@ -31,7 +31,7 @@ outputFormats:
     mediaType: image/svg+xml
 enableGitInfo: true
 params:
-  skipSeconds: false
+  skipSeconds: true
   useRelativeTime: true
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
