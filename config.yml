@@ -172,6 +172,12 @@ params:
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Uncategorized
+    - name: Image Integrity
+      category: AINU API
+    - name: OCR
+      category: AINU API
+    - name: Face 
+      category: AINU API
 
   # What date format to use?
   #
