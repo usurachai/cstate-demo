@@ -5,7 +5,7 @@ date: 2024-06-30T18:00:17.853Z
 resolved: false
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-06-14T08:54:23.539Z
 affected:
   - Face
