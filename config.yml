@@ -51,9 +51,7 @@ params:
   logo: /img/ainulogo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: other tab
-      link: pages/example-page
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
