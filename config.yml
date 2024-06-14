@@ -2,7 +2,7 @@ title: AINU Status Page
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://cstate-demo-surachai.netlify.app/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
