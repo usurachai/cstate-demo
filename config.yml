@@ -48,7 +48,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/screenshot-2567-06-14-at-15.03.31.png
+  logo: /img/ainulogo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
