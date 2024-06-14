@@ -143,6 +143,7 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: AINU API
     - name: North Coast
       description: The main servers are located here.
       closed: true
