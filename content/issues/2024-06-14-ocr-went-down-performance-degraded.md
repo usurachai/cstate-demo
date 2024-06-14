@@ -1,7 +1,7 @@
 ---
 section: issue
 title: OCR went down, performance degraded
-date: 2024-06-14T07:55:46.112Z
+date: 2024-06-14T07:57:58.654Z
 resolved: false
 draft: false
 informational: false
