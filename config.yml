@@ -179,6 +179,7 @@ params:
       category: AINU API
     - name: Face 
       category: AINU API
+      partial: custom/metrics
 
   # What date format to use?
   #
