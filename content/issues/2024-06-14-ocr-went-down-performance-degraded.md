@@ -5,7 +5,7 @@ date: 2024-06-14T07:57:58.654Z
 resolved: false
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-06-14T07:55:46.119Z
 affected:
   - OCR
