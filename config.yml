@@ -53,7 +53,7 @@ params:
   googleAnalytics: UA-00000000-1
   customTabs:
     - name: other tab
-      link: example-page
+      link: pages/example-page
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
